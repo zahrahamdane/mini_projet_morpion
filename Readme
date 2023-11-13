@@ -1,11 +1,12 @@
-Objectifs du jeu
+Objectifs du jeu :
+
 	L'objectif du chapitre est de programmer un morpion très simple.
 	
 	Il faut afficher la grille du jeu et faire jouer deux joueurs qui vont mettre successivement une croix et un cercle.
 	
 	Le premier joueur qui arrive à faire une ligne gagne. Il faut aussi prévoir le cas où il y a égalité.
 
-Mise en place du jeu
+Mise en place du jeu :
 
 	Le programme principal
 	
